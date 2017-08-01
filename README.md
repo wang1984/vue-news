@@ -8,7 +8,7 @@
 
 --vue init webpack-simple my-project
 --npm install
------------------->>>>>>>>>>>>>>>>
+```
   package.json:
 
   "dependencies": {
@@ -37,7 +37,7 @@
       test: /\.(eot|svg|ttf|woff|woff2)$/,
       loader: 'file-loader'
   }
-<<<<<<<<<<<<<<<<<<<<<<<<------------------
+```
 
 # serve with hot reload at localhost:8080
 npm run dev
